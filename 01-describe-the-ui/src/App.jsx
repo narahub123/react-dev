@@ -1,7 +1,12 @@
 import "./App.css";
+import Profile from "./Profile";
 
 function App() {
-  return <>react template</>;
+  return (
+    <>
+      <Profile />
+    </>
+  );
 }
 
 export default App;
